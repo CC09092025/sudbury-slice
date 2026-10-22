@@ -15,3 +15,4 @@ Database scripts: see database/04-queries.sql
 
 # Top Rated Pizza
 Top-rated pizza (from query Q5): The Big Nickel (4.6/5)
+Follow us: @carter_slices
