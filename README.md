@@ -1,4 +1,4 @@
-# Sudbury Slice
+# Sudbury Slice - Big Nickel pizza, bigger flavour
 Owner: Carter Atkins
 Course: CMP3321 Web Development I, Applied Activity 3
 
