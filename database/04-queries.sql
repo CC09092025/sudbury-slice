@@ -1,4 +1,4 @@
--- Sudbury Slice queries, SliceDB
+-- Sudbury Slice queries for SliceDB on SQL Server
 -- Q1
 SELECT PizzaName, BasePrice
 FROM tblPizza
