@@ -1,4 +1,4 @@
--- Sudbury Slice queries for SliceDB on SQL Server
+-- Sudbury Slice queries, written by Carter Atkins for SliceDB on SQL Server
 -- Q1
 SELECT PizzaName, BasePrice
 FROM tblPizza
