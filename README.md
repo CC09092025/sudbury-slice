@@ -12,3 +12,6 @@ Course: CMP3321 Web Development I, Applied Activity 3
 3. Never commit the secret sauce.
 Phone: 705-555-0142
 Database scripts: see database/04-queries.sql
+
+# Top Rated Pizza
+Top-rated pizza (from query Q5): The Big Nickel (4.6/5)
