@@ -1,4 +1,4 @@
--- Sudbury Slice queries, SliceDB
+-- Sudbury Slice queries, written by Carter Atkins
 -- Q1
 SELECT PizzaName, BasePrice
 FROM tblPizza
