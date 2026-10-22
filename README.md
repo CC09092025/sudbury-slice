@@ -10,3 +10,4 @@ Course: CMP3321 Web Development I, Applied Activity 3
 1. Pizza first.
 2. Commit second.
 3. Never commit the secret sauce.
+Phone: 705-555-0142
