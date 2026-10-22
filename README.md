@@ -11,3 +11,4 @@ Course: CMP3321 Web Development I, Applied Activity 3
 2. Commit second.
 3. Never commit the secret sauce.
 Phone: 705-555-0142
+Database scripts: see database/04-queries.sql
